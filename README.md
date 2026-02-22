@@ -293,11 +293,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name**
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+**Vivek Punde**
+- Email: vivekpunde6@gmail.com
+- LinkedIn: [linkedin.com/in/vivekpunde](https://www.linkedin.com/in/vivekpunde)
+- GitHub: [@vivekpunde05](https://github.com/vivekpunde05)
+- Portfolio: [vivekpunde.vercel.app](https://vivekpunde.vercel.app)
 
 ## 🙏 Acknowledgments
 
